@@ -1,1 +1,1 @@
-# Visualitzaci-grafica-de-dades-2
+# Visualització-gràfica-de-dades-2
